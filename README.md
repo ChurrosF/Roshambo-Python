@@ -1,3 +1,3 @@
-# Jogo-Do-Velho
-Jogo da Velha customizado feito em python!
-Um dos meus primeiros projetos reais desenvolvidos por conta, usando pygame e python.
+# Roshambo-Python
+Customised roshambo made with python!
+One of my first real projects developed by myself, using python with the pygame lib.
