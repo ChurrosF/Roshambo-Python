@@ -17,6 +17,6 @@ LINE_COLOR = (139, 128, 0)
 
 # IMAGES
 
-cerveja_path = 'TICTACTOE\\assets\\cerveja.png'
-cigarro_path = 'TICTACTOE\\assets\\cigarro.png'
-taco_path = 'TICTACTOE\\assets\\tacosinuca.png'
+cerveja_path = 'assets\\cerveja.png'
+cigarro_path = 'assets\\cigarro.png'
+taco_path = 'assets\\tacosinuca.png'
